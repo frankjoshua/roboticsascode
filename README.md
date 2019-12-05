@@ -10,3 +10,21 @@ Docker containers are managed as Ansible Roles.
 ## Anisible Role Links
 - [https://github.com/frankjoshua/ansible-role-ros-master](https://github.com/frankjoshua/ansible-role-ros-master)
 - [https://github.com/frankjoshua/ansible-role-ros-adafruitmotorhat](https://github.com/frankjoshua/ansible-role-ros-adafruitmotorhat)
+
+## Example:
+Add roles to requirements.yml
+
+```
+- src: https://github.com/frankjoshua/ansible-role-ros-master.git
+- src: https://github.com/frankjoshua/ansible-role-ros-adafruitmotorhat.git
+```
+Install with ansible galaxy
+```
+ansible-galaxy install -r ./ansible/requirements.yml
+```
+Then you can use as normal ansible roles
+```
+  roles:
+    - role: ansible-role-ros-master
+    - role: ansible-role-ros-adafruitmotorhat
+```
