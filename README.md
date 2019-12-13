@@ -12,6 +12,7 @@ Docker containers are managed as Ansible Roles.
 - [https://github.com/frankjoshua/ansible-role-ros-master](https://github.com/frankjoshua/ansible-role-ros-master)
 - [https://github.com/frankjoshua/ansible-role-ros-adafruitmotorhat](https://github.com/frankjoshua/ansible-role-ros-adafruitmotorhat)
 - [https://github.com/frankjoshua/ansible-role-ros-velocity-muxer](https://github.com/frankjoshua/ansible-role-ros-velocity-muxer)
+- [https://github.com/frankjoshua/ansible-role-ros-bridge-suite](https://github.com/frankjoshua/ansible-role-ros-bridge-suite)
 
 ## Example:
 Add roles to requirements.yml
