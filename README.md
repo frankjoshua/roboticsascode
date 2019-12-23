@@ -7,6 +7,7 @@ Docker containers are managed as Ansible Roles.
 - [https://github.com/frankjoshua/docker-uv4l](https://github.com/frankjoshua/docker-uv4l)
 - [https://github.com/frankjoshua/docker-ros-turtlesim](https://github.com/frankjoshua/docker-ros-turtlesim)
 - [https://github.com/frankjoshua/docker-ros-desktop](https://github.com/frankjoshua/docker-ros-desktop)
+- [https://github.com/frankjoshua/docker-ros-jupyter](https://github.com/frankjoshua/docker-ros-jupyter)
 
 ## Anisible Role Links
 - [https://github.com/frankjoshua/ansible-role-ros-master](https://github.com/frankjoshua/ansible-role-ros-master)
