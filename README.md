@@ -1,10 +1,14 @@
-# RAC
-ROS nodes are placed in Docker containers.<br>
-Docker containers are managed as Ansible Roles.
+# RoboticsAsCode
+**Robotics as Code** (RaC) is using source code to manage and deploy code and configurations to robots.
+<br><br>These are the ideals of RaC: 
+- ROS nodes should be placed in Docker containers.
+- Docker containers should be managed by Ansible preferably as Roles.
+- Ansible configures settings such as networking
 
+# Links
+Examples of RaC implementations
 ## Docker ROS Links
 - [https://github.com/frankjoshua/docker-ros-bridge-suite](https://github.com/frankjoshua/docker-ros-bridge-suite)
-- [https://github.com/frankjoshua/docker-uv4l](https://github.com/frankjoshua/docker-uv4l)
 - [https://github.com/frankjoshua/docker-ros-turtlesim](https://github.com/frankjoshua/docker-ros-turtlesim)
 - [https://github.com/frankjoshua/docker-ros-desktop](https://github.com/frankjoshua/docker-ros-desktop)
 - [https://github.com/frankjoshua/docker-ros-jupyter](https://github.com/frankjoshua/docker-ros-jupyter)
@@ -17,7 +21,13 @@ Docker containers are managed as Ansible Roles.
 - [https://github.com/frankjoshua/ansible-role-ros-slamtec-m1m1](https://github.com/frankjoshua/ansible-role-ros-slamtec-m1m1)
 
 ## Raspberry Pi Links
+- [https://github.com/frankjoshua/docker-uv4l](https://github.com/frankjoshua/docker-uv4l)
 - [https://github.com/frankjoshua/ansible-role-rpi-uv4l](https://github.com/frankjoshua/ansible-role-rpi-uv4l)
+
+# Notes
+
+## Example of a catkin workspace in docker
+[https://github.com/frankjoshua/docker-ros-bridge-suite](https://github.com/frankjoshua/docker-ros-bridge-suite)
 
 ## Example:
 Add roles to requirements.yml
