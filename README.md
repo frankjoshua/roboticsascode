@@ -28,7 +28,11 @@ Examples of RaC implementations
 # Notes
 
 ## Example of a catkin workspace in docker
+Need better example or link to old commit.<br>
 [https://github.com/frankjoshua/docker-ros-bridge-suite](https://github.com/frankjoshua/docker-ros-bridge-suite)
+
+## Demo of ROS in Jupyter Notebook
+[https://github.com/frankjoshua/demo-ros-cmdvel-jupyter](https://github.com/frankjoshua/demo-ros-cmdvel-jupyter)
 
 ## Example:
 Add roles to requirements.yml
