@@ -13,6 +13,7 @@ Examples of RaC implementations
 - [https://github.com/frankjoshua/docker-ros-desktop](https://github.com/frankjoshua/docker-ros-desktop)
 - [https://github.com/frankjoshua/docker-ros-jupyter](https://github.com/frankjoshua/docker-ros-jupyter)
 - [https://github.com/frankjoshua/docker-ros-tfwebrepublisher](https://github.com/frankjoshua/docker-ros-tfwebrepublisher)
+- [https://github.com/frankjoshua/docker-ros-movebase](https://github.com/frankjoshua/docker-ros-movebase)
 
 ## Ansible Role Links
 - [https://github.com/frankjoshua/ansible-role-ros-master](https://github.com/frankjoshua/ansible-role-ros-master)
