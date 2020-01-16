@@ -8,12 +8,14 @@
 # Links
 Examples of RaC implementations
 ## Docker ROS Links
+- [https://github.com/frankjoshua/docker-ros-master](https://github.com/frankjoshua/docker-ros-master)
 - [https://github.com/frankjoshua/docker-ros-bridge-suite](https://github.com/frankjoshua/docker-ros-bridge-suite)
 - [https://github.com/frankjoshua/docker-ros-turtlesim](https://github.com/frankjoshua/docker-ros-turtlesim)
 - [https://github.com/frankjoshua/docker-ros-desktop](https://github.com/frankjoshua/docker-ros-desktop)
 - [https://github.com/frankjoshua/docker-ros-jupyter](https://github.com/frankjoshua/docker-ros-jupyter)
 - [https://github.com/frankjoshua/docker-ros-tfwebrepublisher](https://github.com/frankjoshua/docker-ros-tfwebrepublisher)
 - [https://github.com/frankjoshua/docker-ros-movebase](https://github.com/frankjoshua/docker-ros-movebase)
+- [https://github.com/frankjoshua/docker-ros-realsense](https://github.com/frankjoshua/docker-ros-realsense)
 
 ## Ansible Role Links
 - [https://github.com/frankjoshua/ansible-role-ros-master](https://github.com/frankjoshua/ansible-role-ros-master)
