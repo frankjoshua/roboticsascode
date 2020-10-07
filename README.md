@@ -13,14 +13,16 @@ Examples of RaC implementations
 
 ## Docker ROS Links
 
-- [https://github.com/frankjoshua/docker-ros-master](https://github.com/frankjoshua/docker-ros-master)
-- [https://github.com/frankjoshua/docker-ros-bridge-suite](https://github.com/frankjoshua/docker-ros-bridge-suite)
+- [![Build Status](https://travis-ci.org/frankjoshua/docker-ros-master.svg?branch=master)](https://travis-ci.org/frankjoshua/docker-ros-master) [https://github.com/frankjoshua/docker-ros-master](https://github.com/frankjoshua/docker-ros-master)
+- [![Build Status](https://travis-ci.org/frankjoshua/docker-ros-bridge-suite.svg?branch=master)](https://travis-ci.org/frankjoshua/docker-ros-bridge-suite) [https://github.com/frankjoshua/docker-ros-bridge-suite](https://github.com/frankjoshua/docker-ros-bridge-suite)
 - [https://github.com/frankjoshua/docker-ros-turtlesim](https://github.com/frankjoshua/docker-ros-turtlesim)
 - [https://github.com/frankjoshua/docker-ros-desktop](https://github.com/frankjoshua/docker-ros-desktop)
 - [https://github.com/frankjoshua/docker-ros-jupyter](https://github.com/frankjoshua/docker-ros-jupyter)
 - [https://github.com/frankjoshua/docker-ros-tfwebrepublisher](https://github.com/frankjoshua/docker-ros-tfwebrepublisher)
 - [https://github.com/frankjoshua/docker-ros-movebase](https://github.com/frankjoshua/docker-ros-movebase)
 - [https://github.com/frankjoshua/docker-ros-realsense](https://github.com/frankjoshua/docker-ros-realsense)
+- [![Build Status](https://travis-ci.org/frankjoshua/docker-ros-jviz.svg?branch=master)](https://travis-ci.org/frankjoshua/docker-ros-jviz) [https://github.com/frankjoshua/docker-ros-jviz](https://github.com/frankjoshua/docker-ros-jviz)
+- [![Build Status](https://travis-ci.org/frankjoshua/docker-ros-webviz.svg?branch=master)](https://travis-ci.org/frankjoshua/docker-ros-webviz) [https://github.com/frankjoshua/docker-ros-webviz](https://github.com/frankjoshua/docker-ros-webviz)
 
 ## Ansible Role Links
 
@@ -68,3 +70,9 @@ Then you can use as normal ansible roles
     - role: ansible-role-ros-master
     - role: ansible-role-ros-adafruitmotorhat
 ```
+
+#
+
+###
+
+## Follow me [@frankjoshua77](https://twitter.com/frankjoshua77)
