@@ -13,11 +13,11 @@ Examples of RaC implementations
 
 ## Docker ROS Links
 
-- [![Build Status](https://travis-ci.org/frankjoshua/docker-ros-master.svg?branch=master)](https://travis-ci.org/frankjoshua/docker-ros-master) [https://github.com/frankjoshua/docker-ros-master](https://github.com/frankjoshua/docker-ros-master)
-- [![Build Status](https://travis-ci.org/frankjoshua/docker-ros-bridge-suite.svg?branch=master)](https://travis-ci.org/frankjoshua/docker-ros-bridge-suite) [https://github.com/frankjoshua/docker-ros-bridge-suite](https://github.com/frankjoshua/docker-ros-bridge-suite)
+- [![CI](https://github.com/frankjoshua/docker-ros-master/workflows/CI/badge.svg)](https://github.com/frankjoshua/docker-ros-master/actions) [https://github.com/frankjoshua/docker-ros-master](https://github.com/frankjoshua/docker-ros-master)
+- [![CI](https://github.com/frankjoshua/docker-ros-bridge-suite/workflows/CI/badge.svg)](https://github.com/frankjoshua/docker-ros-bridge-suite/actions) [https://github.com/frankjoshua/docker-ros-bridge-suite](https://github.com/frankjoshua/docker-ros-bridge-suite)
 - [https://github.com/frankjoshua/docker-ros-turtlesim](https://github.com/frankjoshua/docker-ros-turtlesim)
 - [https://github.com/frankjoshua/docker-ros-desktop](https://github.com/frankjoshua/docker-ros-desktop)
-- [https://github.com/frankjoshua/docker-ros-jupyter](https://github.com/frankjoshua/docker-ros-jupyter)
+- [![CI](https://github.com/frankjoshua/docker-ros-jupyter/workflows/CI/badge.svg)](https://github.com/frankjoshua/docker-ros-jupyter/actions)[https://github.com/frankjoshua/docker-ros-jupyter](https://github.com/frankjoshua/docker-ros-jupyter)
 - [https://github.com/frankjoshua/docker-ros-tfwebrepublisher](https://github.com/frankjoshua/docker-ros-tfwebrepublisher)
 - [https://github.com/frankjoshua/docker-ros-movebase](https://github.com/frankjoshua/docker-ros-movebase)
 - [https://github.com/frankjoshua/docker-ros-realsense](https://github.com/frankjoshua/docker-ros-realsense)
@@ -41,7 +41,6 @@ Examples of RaC implementations
 
 ## Example of a catkin workspace in docker
 
-Need better example or link to old commit.<br>
 [https://github.com/frankjoshua/docker-ros-bridge-suite](https://github.com/frankjoshua/docker-ros-bridge-suite)
 
 ## Demo of ROS in Jupyter Notebook
