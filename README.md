@@ -47,6 +47,8 @@ Examples of RaC implementations
 
 [https://github.com/frankjoshua/demo-ros-cmdvel-jupyter](https://github.com/frankjoshua/demo-ros-cmdvel-jupyter)
 
+[![](https://img.youtube.com/vi/cztepMA39Ik/0.jpg)](https://www.youtube.com/watch?v=cztepMA39Ik)
+
 ## Example:
 
 Add roles to requirements.yml
